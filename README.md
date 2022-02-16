@@ -11,3 +11,9 @@
     	<img height="48" src="https://live.staticflickr.com/8296/7749079740_113c14cc98_w.jpg">
     </a>
 </div>
+
+<div align="center"> 
+    <a href="">
+    	<img height="70" src="https://img.elo7.com.br/product/main/1E2320A/kit-especial-pokemon-go-personalizados-pokemon.jpg">
+    </a>
+</div>
